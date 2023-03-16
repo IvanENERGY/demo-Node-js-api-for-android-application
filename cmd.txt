@@ -1,0 +1,4 @@
+npm init -y
+code .
+npm install
+npm start
